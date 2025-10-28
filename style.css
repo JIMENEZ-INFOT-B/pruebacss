@@ -46,11 +46,12 @@
         }
            .elemento11 {
             background-color: #00d9ff;
-            height: 100px;
-            width: 100px;
+            height: 35px;
+            width: 35px;
             color:azure;
             position: absolute;
             right: 0%;
+            top: 0%;
         }
        
            .elemento2 {
